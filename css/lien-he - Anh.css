@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+.circle {
+  background:#CE322C;
+  border: none;
+  border-radius: 50%;
+  height: 1.2em;
+  width: 1.2em;
+text-align: center, justify-all;
+	color: #fff
+}
+
+
+#imgbn2{
+position:relative; top:0px;
+	padding-bottom: 0px;
+	padding-top: 100px
+}
+
+footer{ 
+position: relative;
+background:url( "../images/home/footer/ingredient_bg-1 1 footer bg.png");
+min-height:970px;
+padding-top: 50px}
+
+.f-bb{
+bottom: -22px	
+}
+
+#navbar3{
+	z-index: 9999;
+	position:relative;
+	top:0px;
+}
+
+#banner-caption{	
+text-align: center;
+position: relative;
+color: #fff	;
+z-index: 100;
+bottom: 110px	
+	
+}
+
+#bn2{position: relative;
+	bottom: 0px;
+	padding-bottom:  0px;
+	margin-bottom:33px;
+	z-index: 50;
+	top: 0px
+}
+
+#bn2 .bottom-bb {position: absolute;
+	left: 0;
+	bottom: -2px;
+}
+
+#vung1{margin-top: 60px}
+
+#vung2{
+	min-height: 800px; 
+	margin-top: 80px;
+	justify-content: space-between;
+}
+
+div .card1{ 
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+width: 319px;
+height: 239px; 
+border-radius: 10px;
+margin: 30px 0px;
+
+}
+
+div .card-body{padding: 70px 30px}
+div .card-body-1{padding: 60px 30px}
+
+/*button {
+ 	 border-radius: 20px;
+	background-color: #ce322c;
+	padding:5px 20px ;
+	font-family: 'Oswald',Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; font-size: 18px;
+	color: #fff;
+	border: none;
+}
+
+button:hover {
+  border-radius: 20px;
+background-color: #FBBE36;
+	padding: 5px 20px;
+	font-family: 'Oswald',Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";font-size: 18px;
+	color: #fff; border: none;	
+}*/
+

@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+.circle {
+  background:#CE322C;
+  border: none;
+  border-radius: 50%;
+  height: 1.2em;
+  width: 1.2em;
+text-align: center, justify-all;
+	color: #fff
+}
+
+
+#imgbn2{
+position:relative; top:0px;
+	padding-bottom: 0px;
+	padding-top: 100px
+}
+
+footer{ 
+position: relative;
+background:url( "../images/home/footer/ingredient_bg-1 1 footer bg.png");
+min-height:970px;
+padding-top: 50px}
+
+.f-bb{
+bottom: -22px	
+}
+
+#navbar3{
+	z-index: 9999;
+	position:relative;
+	top:0px;
+}
+
+#banner-caption{	
+text-align: center;
+position: relative;
+color: #fff	;
+z-index: 100;
+bottom: 110px	
+	
+}
+
+#bn2{position: relative;
+	bottom: 0px;
+	padding-bottom:  0px;
+	margin-bottom:33px;
+	z-index: 50;
+	top: 0px
+}
+
+#bn2 .bottom-bb {position: absolute;
+	left: 0;
+	bottom: -2px;
+}
+
+
+.menu-item{
+	padding: 70px 0 70px 0}
+
+.h2top{
+	font-size:16px; 
+	background-color:#CE362C; 
+	color:#fff; 
+	border-radius: 70px; 
+	padding: 0px 20px 1px 20px; 
+	top: -22px; 
+	left: 17px;
+    position: absolute;
+}
+.button1 {
+  border-radius: 30px;
+background-color: #ce322c;
+	padding: 5px 15px 7px 15px;
+	font-family: 'Oswald',Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #fff;
+	border: none;
+	text-decoration: none
+	
+}
+
+.button1:hover {
+  border-radius: 30px;
+background-color: #FBBE36;
+	padding: 5px 15px 7px 15px;
+	font-family: 'Oswald',Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #fff; border: none;	
+	text-decoration: none
+}
+.patt-giohang0{
+	background-image: url("../images/home/vung 1 (6)/menu_pattern3-min 2.png");
+	background-position: center
+	
+}
+
+.patt-giohang1{
+	background-image: url("../images/home/vung 1 (6)/menu_pattern3-min 2.png");
+	background-position: center
+	
+}
+
+.hoa-don{
+	box-shadow: 15px 20px 50px 2px ;
+	border-radius: 15px
+}
+

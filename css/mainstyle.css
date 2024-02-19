@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+section{
+	padding: 0  0 0 0}
+
+footer{ 
+position: relative;
+background:url( "../images/home/footer/ingredient_bg-1 1 footer bg.png");
+min-height:970px;
+padding-top: 50px}
+
+.f-bb{
+bottom: -22px	
+}
+
+#navbar3{
+	z-index: 9999;
+	position:relative;
+	top:0px;
+}
+
+.bottom-bb
+{position: absolute;
+	left: 0;
+	bottom: -2px;
+}
+.circle {
+  background:#CE322C;
+  border: none;
+  border-radius: 50%;
+  height: 1.2em;
+  width: 1.2em;
+text-align: center, justify-all;
+	color: #fff
+}
